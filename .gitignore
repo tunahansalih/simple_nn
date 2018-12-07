@@ -1,0 +1,5 @@
+dataset/amazonapikey.txt
+dataset/cat/*
+dataset/dog/*
+dataset/panda/*
+.idea
